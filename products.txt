@@ -1,0 +1,35 @@
+101|Rice|Groceries|80.00|100
+102|Lentils|Groceries|120.00|100
+103|Sugar|Groceries|140.00|100
+104|Cooking Oil|Groceries|180.00|99
+105|Salt|Groceries|40.00|100
+201|Frozen Chicken|Frozen|350.00|47
+202|Frozen Nuggets|Frozen|450.00|50
+203|Frozen Paratha|Frozen|180.00|50
+204|Frozen Samosa|Frozen|200.00|50
+205|Frozen French Fries|Frozen|250.00|50
+301|Potato|Vegetables|40.00|100
+302|Tomato|Vegetables|80.00|100
+303|Carrot|Vegetables|70.00|100
+304|Onion|Vegetables|90.00|100
+305|Capsicum|Vegetables|150.00|100
+401|Beef|Protein|850.00|50
+402|Chicken|Protein|220.00|50
+403|Mutton|Protein|950.00|50
+404|Fish|Protein|450.00|50
+405|Eggs|Protein|140.00|100
+501|Face Wash|Skin Care|350.00|50
+502|Moisturizer|Skin Care|500.00|50
+503|Sunscreen|Skin Care|650.00|49
+504|Face Cream|Skin Care|450.00|50
+505|Body Lotion|Skin Care|400.00|49
+601|Men T-Shirt|Men Clothing|650.00|29
+602|Men Shirt|Men Clothing|950.00|30
+603|Men Jeans|Men Clothing|1200.00|30
+604|Men Jacket|Men Clothing|1800.00|20
+605|Men Panjabi|Men Clothing|1500.00|30
+701|Women T-Shirt|Women Clothing|650.00|30
+702|Women Dress|Women Clothing|1200.00|30
+703|Saree|Women Clothing|1800.00|15
+704|Kurti|Women Clothing|900.00|30
+705|Women Jeans|Women Clothing|1100.00|29
